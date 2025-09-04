@@ -7,7 +7,7 @@
 
 int main(int argc, char *argv[]) {
     if (argc < 2) {
-        printf("Usage: %s <filename.eml>\n", argv[0]);
+        printf("Usage: %s <filename.painx>\n", argv[0]);
         return 1;
     }
 
@@ -120,3 +120,4 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
+
