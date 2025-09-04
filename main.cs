@@ -12,7 +12,7 @@ class EmlInterpreter
     {
         if (args.Length < 1)
         {
-            Console.WriteLine("Usage: EmlInterpreter <filename.eml>");
+            Console.WriteLine("Usage: PAINXInterpreter <filename.painx>");
             return;
         }
 
@@ -143,3 +143,4 @@ class EmlInterpreter
         }
     }
 }
+
