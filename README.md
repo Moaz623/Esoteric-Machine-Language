@@ -1,16 +1,16 @@
 #
 
-**This is a full course for learning _EML_ with the interpreter for Windows and Linux.**<br>
+**This is a full course for learning _EsoMaL_ with the interpreter for Windows and Linux.**<br>
 **Read all of these instructions:** <br>
 
 #
 
 **1. Introduction:**<br><br>
-**EML is an Esoteric Programming Language that was created in 2025 by Moaz Ahmed.It was created to be the slowest, hardest language in the world and to be complex with minimal commands.It is very safe.**<br>
-**How is EML safe?**<br>
+**EsoMaL is an Esoteric Programming Language that was created in 2025 by Moaz Ahmed.It was created to be the slowest, hardest language in the world and to be complex with minimal commands.It is very safe.**<br>
+**How is EsoMaL safe?**<br>
 **It creates a virtual environment**<br><br>
 **2. Learn:** <br><br>
-**To learn EML you will need to know these commands:**
+**To learn EsoMaL you will need to know these commands:**
 
 **001001001 (Move the pointer to the right)**
 
@@ -34,6 +34,6 @@
 [github.com][https://github.com/Muadth-Ahmed/Esoteric-Machine-Language]
 
 **Here is a simple code in Esoteric Machine Language:**
-```EML <br>
+```EsoMaL <br>
 00100101 00100101 00100101 00100101 00100101 00100101 00100101 00100101 00100101 00100101 00000001 01001001 00100101 00100101 00100101 00100101 00100101 00100101 00100101 10101001 10010101 11111101 01001001 00100101 00100101 11100001
 ```
